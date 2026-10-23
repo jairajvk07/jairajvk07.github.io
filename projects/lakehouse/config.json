@@ -1,0 +1,1 @@
+{"source":"projects/lakehouse/data/cdc.jsonl","root":"output/lakehouse","key":"customer_id","sequence":"sequence","allowed_ops":["I","U","D"]}
