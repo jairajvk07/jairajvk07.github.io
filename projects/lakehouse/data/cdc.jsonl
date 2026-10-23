@@ -1,0 +1,6 @@
+{"customer_id":"C01","sequence":1,"op":"I","name":"Avery","region":"Midwest"}
+{"customer_id":"C02","sequence":1,"op":"I","name":"Morgan","region":"West"}
+{"customer_id":"C01","sequence":2,"op":"U","name":"Avery","region":"East"}
+{"customer_id":"C02","sequence":2,"op":"D","name":"Morgan","region":"West"}
+{"customer_id":"C03","sequence":1,"op":"I","name":"Riley","region":"West"}
+{"customer_id":null,"sequence":1,"op":"I","name":"Invalid","region":"West"}
